@@ -1,0 +1,15 @@
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\SearchThroughFiles.exe.config
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\SearchThroughFiles.exe
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\SearchThroughFiles.pdb
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.csprojResolveAssemblyReference.cache
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.Form1.resources
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.Properties.Resources.resources
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.csproj.GenerateResource.Cache
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.exe
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.pdb
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\Code7248.word_reader.dll
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\itextsharp.dll
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\bin\Debug\itextsharp.xml
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.NoSearchWordForm.resources
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.NoDirectoryForm.resources
+C:\Users\Wobbler\Desktop\jobb\SearchThroughFiles\SearchThroughFiles\obj\Debug\SearchThroughFiles.InvalidDirectory.resources
